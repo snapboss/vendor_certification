@@ -4,7 +4,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.genesisos.android.certifiedprops.overlay">
+    package="com.clover.android.certifiedprops.overlay">
     <application android:hasCode="false"/>
     <overlay android:targetPackage="android"/>
 </manifest>
